@@ -1,7 +1,7 @@
 spring:
   application:
-    name: config-service
-config-service:
+    name: greeting-service
+greeting-service:
   greeting: "Ola"
   default-value: "Mundo"
 management:
