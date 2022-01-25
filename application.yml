@@ -1,7 +1,7 @@
 spring:
   application:
-    name: config-server
-config-server:
+    name: greeting-service
+greeting-service:
   greeting: "Hello"
   default-value: "World"
 management:
