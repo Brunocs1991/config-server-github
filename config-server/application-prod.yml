@@ -3,7 +3,7 @@ spring:
     name: greeting-service
 greeting-service:
   greeting: "Cia"
-  default-value: "Mondo"
+  default-value: "Mondoo"
 management:
   endpoints:
     web:
